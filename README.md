@@ -1,1 +1,1 @@
-# LOLCODE_PLP_TanasiciucIoana
+# proiect PLP - limbajul LOLCODE
